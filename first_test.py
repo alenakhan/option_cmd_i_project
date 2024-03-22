@@ -1,6 +1,7 @@
 def hello(name):
     print(f'Hello, {name}!')
 
+
 hello('April')
 
 
@@ -10,8 +11,8 @@ hello('April')
 def sum(a, b):
     print(a + b)
 
+
 sum(3, 8)
 
 
-#Hello! It's me.
-123
+# Hello! It's me.
