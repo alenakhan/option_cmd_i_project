@@ -19,3 +19,15 @@ sum(3, 8)
 
 # Hello! This is my first commit
 
+password = "hello123@1"
+is_valid = True
+
+
+for c in password:
+    if c in "@_*":
+        is_valid = False
+        break
+if is_valid:
+    print("good password")
+else:
+    print("bad password")
