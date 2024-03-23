@@ -19,7 +19,7 @@ sum(3, 8)
 
 # Hello! This is my first commit
 
-password = "hello123@1
+password = "hello123@1"
 is_valid = True
 
 
