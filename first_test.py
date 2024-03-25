@@ -31,3 +31,7 @@ if is_valid:
     print("good password")
 else:
     print("bad password")
+
+x = 1
+y = 2
+s = x + y
